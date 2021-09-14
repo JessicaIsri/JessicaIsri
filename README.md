@@ -32,6 +32,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
   <code><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="75px" /></code>
 </p>
+
 <hr>
 <h3>Live Stats</h3>
 <p>
