@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /><b> Hi, I'm Jessica Dias 🚀 from Brazil</b></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /><b> Hi, I'm Jessica Isri 🚀 from Brazil</b></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jessica-dias1/">
