@@ -11,7 +11,6 @@
 <ul>
   <li>💻 I’m currently working on <a href="https://www.geoambiente.com.br/">Geoambiente</a></li>
   <li>🌱 Starting as fullstack with Java and Angular;</li>
-  <li>⚡️ Fun-Fact: My coworkers nicknamed me Issue Thief;</li>
   <li>📫 How to reach me: jessicaisri@gmail.com;</li>
 </ul>
 <hr>
